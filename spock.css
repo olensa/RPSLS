@@ -9,3 +9,6 @@ input:hover {
     width: 55px;
     height: 55px;
 }
+input:focus{
+    outline: none;
+}
